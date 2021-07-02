@@ -14,7 +14,7 @@ const Pagination = ({ perPage, tableDatas, paginate }) => {
                         pageNumbers.map(number => {
                             return (
                                 <li key={number} class="page-item">
-                                    <a onClick={() => paginate(number)} href="!#" class="page-link">
+                                    <a onClick={() => paginate(number)} href="#" class="page-link">
                                         {number}
                                     </a>
                                 </li>
