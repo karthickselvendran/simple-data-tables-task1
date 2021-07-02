@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/simple-data-tables-task1/static/css/main.6d4d0243.chunk.css",
+    "main.js": "/simple-data-tables-task1/static/js/main.ac209ed0.chunk.js",
+    "main.js.map": "/simple-data-tables-task1/static/js/main.ac209ed0.chunk.js.map",
+    "runtime-main.js": "/simple-data-tables-task1/static/js/runtime-main.b0ebe977.js",
+    "runtime-main.js.map": "/simple-data-tables-task1/static/js/runtime-main.b0ebe977.js.map",
+    "static/js/2.810a6897.chunk.js": "/simple-data-tables-task1/static/js/2.810a6897.chunk.js",
+    "static/js/2.810a6897.chunk.js.map": "/simple-data-tables-task1/static/js/2.810a6897.chunk.js.map",
+    "static/js/3.5f775e7d.chunk.js": "/simple-data-tables-task1/static/js/3.5f775e7d.chunk.js",
+    "static/js/3.5f775e7d.chunk.js.map": "/simple-data-tables-task1/static/js/3.5f775e7d.chunk.js.map",
+    "index.html": "/simple-data-tables-task1/index.html",
+    "static/css/main.6d4d0243.chunk.css.map": "/simple-data-tables-task1/static/css/main.6d4d0243.chunk.css.map",
+    "static/js/2.810a6897.chunk.js.LICENSE.txt": "/simple-data-tables-task1/static/js/2.810a6897.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b0ebe977.js",
+    "static/js/2.810a6897.chunk.js",
+    "static/css/main.6d4d0243.chunk.css",
+    "static/js/main.ac209ed0.chunk.js"
+  ]
+}
